@@ -1,0 +1,40 @@
+
+input{
+	border:none;
+	border-radius:10px;
+}
+.main{
+	display:flex;
+	justify-content:space-around;
+	text-align:center;
+	align-items:center;
+	background:#5ecde0;
+	margin:10px;
+	padding:50px;
+}
+   button{
+	   margin:5px;
+	   border:none;
+	   border-radius:10px;
+	   padding:5px;
+	   background:#036564;
+	   color:white;
+   }
+   
+   .divs{
+	   
+	   background:#17181f;
+	   color:white;
+	   margin:10px;
+	   padding:10px;
+	   border-radius:10px;
+   }
+   .color{
+	   background:red;
+   }
+   input {
+	   outline:none;
+   }
+   h1{
+	   text-align:center;
+   }
